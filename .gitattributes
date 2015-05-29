@@ -1,0 +1,6 @@
+
+*.png filter=lfs -crlf
+*.psd filter=lfs -crlf
+*.dll filter=lfs -crlf
+*.gif filter=lfs -crlf
+*.jpg filter=lfs -crlf
